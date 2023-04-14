@@ -23,4 +23,5 @@ def home():  # calculates user's weight on other worlds by multiplying mass by p
         return render_template('index.html')
 
 
-app.run(debug=True)
+if __name__ == 'main':
+    app.run(debug=True)
