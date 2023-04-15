@@ -26,9 +26,11 @@ margin-top: 80px;
 }
 
 .btn{
-margin-bottom: 3px;
+line-height: 50px;
 }
 
 .input{
 width: 20%;
+height: 20px;
+
 }
